@@ -1,0 +1,9 @@
+{
+  "name": "Práctica Pruebas Estandarizadas 2026",
+  "description": "Una aplicación interactiva de quizes basada en el temario de sexto año para las materias de Español, Ciencias, Estudios Sociales y Matemáticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Aprendizaje Interactivo",
+    "Evaluación de Conocimientos"
+  ]
+}
